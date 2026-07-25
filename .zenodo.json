@@ -1,0 +1,23 @@
+{
+  "title": "damn-vulnerable-agent-skill",
+  "description": "Intentionally vulnerable AI Agent Skill scenarios for hands-on learning, with detection via uncloak.",
+  "creators": [
+    {
+      "name": "Yurtsevenler, Fevzi Ege",
+      "affiliation": "AltaySec"
+    }
+  ],
+  "keywords": [
+    "LLM security",
+    "AI security",
+    "prompt injection",
+    "agent security",
+    "OWASP LLM Top 10",
+    "vulnerable",
+    "training",
+    "agent skills"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
