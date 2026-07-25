@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="damn-vulnerable-agent-skill" width="100%"></p>
+
 # damn-vulnerable-agent-skill
 
 <p align="center">
