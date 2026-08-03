@@ -228,3 +228,21 @@ New attack scenarios, better defenses, and clearer walkthroughs are welcome — 
 [Apache-2.0](LICENSE) © Fevzi Ege Yurtsevenler — [AltaySec](https://altaysec.com.tr). Contributor to the OWASP GenAI Security Project (LLM Top 10).
 
 <sub>Educational security research. If this lab helped you catch a bad extension before it ran, a ⭐ helps other defenders find it.</sub>
+
+---
+
+## İlgili AltaySec Kaynakları
+
+- 📖 [Skill Poisoning: SKILL.md Tedarik Zinciri Saldırısı ve ClawHavoc](https://altaysec.com.tr/arastirmalar/skill-poisoning-skillmd-tedarik-zinciri) — konunun derinlemesine Türkçe analizi
+- 🌐 [AltaySec Araştırmalar](https://altaysec.com.tr/arastirmalar/) — Türkçe yapay zekâ güvenliği yazıları
+
+## Atıf
+
+```bibtex
+@software{altaysec_damn_vulnerable_agent_skill_2026,
+  author = {{AltaySec}},
+  title  = {damn-vulnerable-agent-skill},
+  year   = {2026},
+  url    = {https://github.com/fevziegeyurtsevenler/damn-vulnerable-agent-skill}
+}
+```
